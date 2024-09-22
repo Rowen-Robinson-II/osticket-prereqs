@@ -37,9 +37,7 @@ Creating vm in Microsoft Azure
 <br />
 
 <p>
-![Screenshot (86)](https://github.com/user-attachments/assets/20d04579-490c-40fe-be88-f970649083d8)
-![Screenshot (86)](https://github.com/user-attachments/assets/ba01d2f7-a5a4-4e18-8dea-7405862d8de1)
-
+<img width="860" alt="image" src="https://github.com/user-attachments/assets/0b116553-a419-4f12-893e-5d94d5f7f414">
 </p>
 <p>
 Enable IIS in windows with CGI 
