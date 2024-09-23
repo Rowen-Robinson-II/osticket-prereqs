@@ -19,11 +19,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Create VM 9 (connect to it)
-- web server
-- database
-- osTickets files an downloads
-- Item 5
+- Virtual Machine
+- Internet Information Services Web Server
+- mySQL Database
+- osTickets files and downloads
+
 
 <h2>Installation Steps</h2>
 
