@@ -125,3 +125,58 @@ In IIS go to sites -> Default -> osTicket. on the right, click "Browse *.80" to 
 <br/>
 <br />
 <br />
+
+<p>
+<img width="856" alt="image" src="https://github.com/user-attachments/assets/b1cfc23e-6df3-4f0e-94ea-4001feed162b">
+</p>
+<p>
+Fill out the following information.
+</p>
+<br/>
+<br />
+<br />
+
+<p>
+<img width="853" alt="image" src="https://github.com/user-attachments/assets/38027b4d-0cb6-4de5-a833-b293955195cd">
+</p>
+<p>
+Install HeidieSQL from the osTicket installation folder
+</p>
+<br/>
+<br />
+<br />
+Open Heidi SQL
+Create a new session, root/root
+Connect to the session
+Create a database called “osTicket”
+
+<p>
+<img width="857" alt="image" src="https://github.com/user-attachments/assets/00d2ba9b-3005-4daf-b4a7-37335aeb1e0e">
+</p>
+<p>
+Open Heidi SQL, Create a new session: root/root, Connect to the session, Create a database called “osTicket”
+</p>
+<br/>
+<br />
+<br />
+
+<p>
+<img width="855" alt="image" src="https://github.com/user-attachments/assets/7b680f44-5fbb-4118-be90-45232b47a6e4">
+</p>
+<p>
+fillout database section then click install now
+</p>
+<br/>
+<br />
+<br />
+
+
+<p>
+<img width="856" alt="image" src="https://github.com/user-attachments/assets/3e41ffc7-d61d-4f97-a2ac-e30498832d3f">
+</p>
+<p>
+Successful installation will be greeted with Congratulations page
+</p>
+<br/>
+<br />
+<br />
