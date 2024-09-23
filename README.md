@@ -20,7 +20,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Virtual Machine
-- Internet Information Services Web Server
+- Internet Information Services (IIS) Web Server
 - mySQL Database
 - osTickets files and downloads
 
